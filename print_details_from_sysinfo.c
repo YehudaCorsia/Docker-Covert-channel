@@ -1,4 +1,4 @@
-# Credit to tuturialspoint. 
+// Credit to tuturialspoint. 
 
 #include <linux/kernel.h>
 #include <stdio.h>
