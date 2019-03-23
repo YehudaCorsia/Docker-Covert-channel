@@ -6,7 +6,7 @@ This repository shows new [Covert channel](https://en.wikipedia.org/wiki/Covert_
 
 You can check this  [video](https://youtu.be/n5sFaDJyeIQ) that shows my exploitation of this vulnerability.
 
-Screenshots from using this project:
+some screenshots:
 
 ![Scrren shot 1](https://github.com/YehudaCorsia/Docker-Covert-channel/blob/master/docs/Screenshots/Screenshot%201.png)
 
