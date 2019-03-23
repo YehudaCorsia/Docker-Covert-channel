@@ -16,7 +16,7 @@ Hebrew speakers are invited to read the article that will be published soon in [
 
 and 
 
-    docker run --network=none -it yehudacorsia/docker-covert-channel-reciver 
+    docker run --network=none -it yehudacorsia/docker-covert-channel-receiver 
     
 **or build this by yourself from [here](https://github.com/YehudaCorsia/Docker-Covert-channel/tree/master/src/Dockerfiles)**.
 
