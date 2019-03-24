@@ -41,6 +41,7 @@ I have attached the POC. Keep in mind it is a very naive implementation and coul
 ---
 
 **They first answer :**
+
 Thanks for this report (and neat PoC), unfortunately we don't agree that  
 this is a vulnerability -- for a few reasons.  
   
@@ -86,6 +87,7 @@ disclose potential issues to us in the future. :D
 
 ---
 **My second mail:**
+
 Hey, thank you for the quick response.
 
   
@@ -137,6 +139,7 @@ Thank you
 ---
 
 **My third mail:** (second and third was sent one after one in the same day...)
+
 Hi, I want to share with you a new thing that I found.
 
   
