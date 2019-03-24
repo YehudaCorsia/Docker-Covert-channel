@@ -360,6 +360,5 @@ disclosure timeline).
 
 ---
 
-I am still not response to this mail :-)
-when that i will response I will share this here.
+i am not responding to this mail :-)
 
