@@ -12,7 +12,7 @@ some screenshots:
 
 ![Scrren shot 2](https://github.com/YehudaCorsia/Docker-Covert-channel/blob/master/docs/Screenshots/From%20Fedora/Screenshot%202.png)
 
-Hebrew speakers are welcome to read my article that will be published soon in [digital whisper](https://www.digitalwhisper.co.il/).
+Hebrew speakers are welcome to read my article that was published in [digital whisper](https://www.digitalwhisper.co.il/files/Zines/0x69/DW105-2-CovertDocker.pdf).
 
 # Using this project :
 
